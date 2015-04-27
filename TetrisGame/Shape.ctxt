@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=type
+comment0.target=Shape(int)
+comment0.text=\r\n\ Initializes\ the\ shape\ based\ on\ its\ numerical\ type\r\n
+comment1.params=
+comment1.target=int\ minX()
+comment1.text=\r\n\ @return\ \ int\ \ the\ minimum\ x-value\ of\ the\ shape\r\n
+comment2.params=
+comment2.target=int\ minY()
+comment2.text=\r\n\ @return\ \ int\ \ the\ minimum\ y-value\ of\ the\ shape\r\n
+comment3.params=
+comment3.target=int\ maxX()
+comment3.text=\r\n\ @return\ \ int\ \ the\ maximum\ x-value\ of\ the\ shape\r\n
+comment4.params=
+comment4.target=int\ maxY()
+comment4.text=\r\n\ @return\ \ int\ \ the\ maximum\ y-value\ of\ the\ shape\r\n
+comment5.params=
+comment5.target=Shape\ rotateRight()
+comment5.text=\r\n\ Rotates\ the\ shape\ 90\ degrees\ to\ the\ right\r\n\ and\ resets\ its\ inital\ reference\ point\r\n\ to\ (0,0)\r\n\ \r\n\ @return\ \ Shape\ \ the\ rotated\ shape\r\n
+comment6.params=
+comment6.target=int\ getShapeType()
+comment6.text=\r\n\ Accessor\ method\ for\ instance\ variable\ type\r\n\ \r\n\ @return\ \ int\ \ Shape\ type\r\n
+comment7.params=
+comment7.target=int[][]\ getShape()
+comment7.text=\r\n\ Accessor\ method\ for\ instance\ variable\ pieceShape\r\n\ \r\n\ @return\ \ int[][]\ \ coordinates\ of\ shape's\ populated\ squares\r\n
+numComments=8
